@@ -1,0 +1,42 @@
+.left-side{
+    width: 65%;
+    float:left;
+
+}
+.left-side >img{
+    float:right;
+
+}
+.left-side .logo{
+    margin-top:120px;
+    margin-right:20px;
+}
+.right-side{
+    width: 35%;
+    float:right;
+    border-left:1px dashed #fff;
+    color:#fff;
+    height:480px;
+}
+.right-side >ul{
+    padding-top:80px;
+
+}
+.right-side >ul >li{
+    padding-bottom:20px;
+    margin-left:20px;
+
+}
+.right-side >ul >li >a{
+    color:#fff;
+    font-family: "consolas";
+}
+.phon-icon{
+    padding-top:133px;
+    margin-right:10px;
+}
+.mail-icon{
+    padding-top:30px;
+    margin-right:10px;
+
+}
